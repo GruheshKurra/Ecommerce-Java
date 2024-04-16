@@ -23,7 +23,7 @@ To get started with Ecom, follow these steps:
 ## Demo
 Check out our demo video below to see Ecom in action:
 
-[![Ecom Demo](https://img.youtube.com/vi/ehhA99TPU1Y/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Ecom Demo](https://img.youtube.com/vi/ehhA99TPU1Y/0.jpg)](https://www.youtube.com/watch?v=ehhA99TPU1Y)
 
 Your feedback means the world to us. Feel free to reach out with any questions, suggestions, or comments!
 
